@@ -1,4 +1,33 @@
+
 body {
     font-family: Verdana, Garamond, 'Times New Roman';
     background-color: lightseagreen;
+    width: 1000px;
 }
+
+.recipe-description img {
+    width: 20%;
+    height: auto;
+}
+
+.recipe-description {
+
+    padding: 5px;
+    border: 10px solid white;
+    margin: 10px;
+
+    text-align: center;
+}
+
+.recipe-process {
+
+    padding: 5px;
+    border: 10px solid white;
+    margin: 10px;
+
+}
+
+h2, p, ul, li { 
+    font-size: 14px;
+}
+
